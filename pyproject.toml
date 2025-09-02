@@ -44,6 +44,9 @@ dependencies = [
     "mcp>=1.9.4",
     "langchain-aws>=0.2.28",
     "pandas>=2.3.1",
+    "annotated-types>=0.6.0",
+    "pydantic>=2.0.0",
+    "PyYAML>=6.0",
 ]
 
 [project.optional-dependencies]
